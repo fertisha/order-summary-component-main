@@ -25,13 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![(./images/Screenshot of Challenge.jpg)]
+![screenshot](./images/Screenshot of Challenge.jpg)
 
 This is a screenshot of my finale Solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
