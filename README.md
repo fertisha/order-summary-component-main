@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot of Challenge.jpg)
+![(./images/Screenshot of Challenge.jpg)]
 
 This is a screenshot of my finale Solution
 
